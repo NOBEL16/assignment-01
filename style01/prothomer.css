@@ -1,0 +1,48 @@
+nav{
+   
+    text-align:center;
+    color:aliceblue;
+   
+}
+.nav-title{
+    font-size: 50px;
+    color:green;
+}
+.btn{
+    
+    background:rgb(255, 51, 0);
+}
+.header{
+    background:aliceblue;
+  background-image: url('../images/donation10.jpg');
+  background-repeat:no-repeat ;
+  background-position: bottom;
+   background-size:auto;
+
+
+}
+.title{
+    color:black;
+}
+
+.info{
+    color:black;
+    display:flex;
+    justify-content: space-evenly;
+}
+.red{
+    color:red;
+}
+.color{
+    background:pink;
+}
+.now{
+    color:azure;
+ 
+}
+.b{
+    background:red;
+}
+.our{
+    text-align:center;
+}
